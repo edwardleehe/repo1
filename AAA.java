@@ -8,6 +8,7 @@ class A{
 		sout("asdsadasdsadsadsa")
 		sout("asdsadasdsadsadsa")
 		sout("asdsadasdsadsadsa")
+		sout("111111111111111111111")
 	}
 	
 	
